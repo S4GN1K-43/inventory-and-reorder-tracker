@@ -1,0 +1,13 @@
+month,item_id,item_name,category,sales
+January,I001,Arduino Uno,Microcontroller,18
+January,I002,Raspberry Pi,Computer,12
+January,I003,LED Pack,Components,30
+February,I001,Arduino Uno,Microcontroller,20
+February,I002,Raspberry Pi,Computer,14
+February,I003,LED Pack,Components,35
+March,I001,Arduino Uno,Microcontroller,22
+March,I002,Raspberry Pi,Computer,15
+March,I003,LED Pack,Components,35
+April,I001,Arduino Uno,Microcontroller,25
+April,I002,Raspberry Pi,Computer,18
+April,I003,LED Pack,Components,40
